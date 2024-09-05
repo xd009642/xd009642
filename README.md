@@ -9,6 +9,12 @@ If you know me you probably know me for [tarpaulin](https://github.com/xd009642/
 a Rust code coverage tool. It's my main project outside of work but
 occasionally I do other things.
 
+**Blog**
+
+I have a infrequently maintained blog [here](https://xd009642.github.io/). I've been
+posting a bit more recently about various things I've been doing both tarpaulin and
+non-tarpaulin.
+
 **Talk(s)**
 
 Currently, only one at Rustnation 2024 but I spoke on making an open source TTS engine
