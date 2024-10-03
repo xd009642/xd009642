@@ -17,8 +17,10 @@ non-tarpaulin.
 
 **Talk(s)**
 
-Currently, only one at Rustnation 2024 but I spoke on making an open source TTS engine
+At Rustnation 2024 but I spoke on making an open source TTS engine
 in Rust. You can find the code [here](https://github.com/xd009642/xd-tts) and
 the talk recording [here](https://youtu.be/HiqId_9pysM?si=wX0H67BmPdZwF8v-)
 
-Who knows maybe there'll be more here in future!
+During the pandemic I spoke remotely at the Rust London takeover for data science
+where I spoke a bit about one of Emotech's education products for language learners: 
+[Multimodal Pronunciation Assessment in Rust](https://youtu.be/EGlilM0Dtu8?si=_dWtg5HZRx4boI5x&t=4949)
