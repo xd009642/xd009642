@@ -11,9 +11,10 @@ occasionally I do other things.
 
 **Blog**
 
-I have a infrequently maintained blog [here](https://xd009642.github.io/). I've been
+I have a increasingly more active blog [here](https://xd009642.github.io/). I've been
 posting a bit more recently about various things I've been doing both tarpaulin and
-non-tarpaulin.
+non-tarpaulin. I'm currently working on a series on bidirectional streaming APIs for
+audio applications - the sort of stuff you'd do for a streaming transcription service etc.
 
 **Talk(s)**
 
